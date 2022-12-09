@@ -7,7 +7,7 @@ function! fern#scheme#file#mapping#bookmarks#init(disable_default_mappings) abor
   nnoremap <buffer><silent> <Plug>(fern-action-bookmark-add) :<C-u>call <SID>call('add')<CR>
 
   if !a:disable_default_mappings
-        \ && !g:fern#scheme#file#mapping#search#disable_default_mappings
+        \ && !g:fern#scheme#file#mapping#bookmarks#disable_default_mappings
     nmap <buffer><nowait> B <Plug>(fern-action-bookmarks)
   endif
 endfunction
