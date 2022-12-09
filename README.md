@@ -5,7 +5,7 @@
 [fern.vim](https://github.com/lambdalisue/fern.vim) plugin to add simple bookmarks for
 your favarite folders. Bookarks are stored in `~/.FernBookmarks` by default.
 
-[demo](bookmarks.gif)
+![demo](bookmarks.gif)
 
 ## Usage
 
