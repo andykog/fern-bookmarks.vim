@@ -1,3 +1,4 @@
+let g:fern#scheme#file#mapping#bookmarks#disable_default_mappings = get(g:, 'fern#scheme#file#mapping#fern#scheme#file#mapping#search#disable_default_mappings', 0)
 let g:FernBookmarksFile = get(g:, 'FernBookmarksFile', expand('$HOME') . '/.FernBookmarks')
 let s:Bookmark = {}
 let g:FernBookmark = s:Bookmark
