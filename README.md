@@ -8,7 +8,7 @@
 
 ## Usage
 
-| Mapping | Action                      | Description                    |
-| ------- | --------------------------- | ------------------------------ |
-| `ms`    | `fern-action-bookmarks`     | Open bookmarks                 |
-|         | `fern-action-bookmarks-add` | Add current node to bookmarks  |
+| Mapping | Action          | Description                    |
+| ------- | --------------- | ------------------------------ |
+| `ms`    | `bookmarks`     | Open bookmarks                 |
+|         | `bookmarks-add` | Add current node to bookmarks  |
